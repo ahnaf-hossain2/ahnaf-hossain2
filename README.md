@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahnaf Hossain and I'm a CSE Student from Bangladeh</h2>
+<h2 align="left">Hi 👋! My name is Ahnaf Hossain and I'm a CSE Student In American Internation University Bangladesh</h2>
 
 ###
 
