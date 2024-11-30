@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahnaf Hossain and I'm a CSE Student In American International University Bangladesh</h2>
+<h2 align="left">Hi 👋! Im MD Ahnaf Hossain and I'm a CSE Student In American International University Bangladesh</h2>
 
 ###
 
