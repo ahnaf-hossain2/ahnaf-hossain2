@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! Im MD Ahnaf Hossain and I'm a CSE Student In American International University Bangladesh</h2>
+<h2 align="left">Hi👋, I’m MD Ahnaf Hossain, but you can call me Ahnaf. I’m a  Computer Science and Engineering student from Dhaka, Bangladesh. I’m passionate about programming and problem-solving, with experience in C++, HTML, and basic IT skills.
+
+Outside of academics, I enjoy playing badminton 🏸 , watching documentaries, and working on personal projects. My dream is to join one of the FAANG companies and master cybersecurity and 🐞 bug hunting.
+
+Family and personal growth are my biggest priorities, and I’m focused on improving myself every day while staying optimistic about the future.</h2>
 
 ###
 
