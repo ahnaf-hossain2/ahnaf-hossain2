@@ -40,11 +40,17 @@ Family and personal growth are my biggest priorities, and I’m focused on impro
 
 <br clear="both">
 
+###
+
+<br clear="both">
+
 <h2 align="left">Language and Tools:</h2>
 
 ###
 
-<br clear="both">
+<img align="right" height="150" src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/476c771d-befd-4422-8da4-85b1657555a0/Determined+Luffy?format=2500w"  />
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -74,25 +80,6 @@ Family and personal growth are my biggest priorities, and I’m focused on impro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-</div>
-
-
-###
-
-<br clear="both">
-
-<h2 align="left">Language and Tools:</h2>
-
-###
-
-<img align="right" height="150" src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/476c771d-befd-4422-8da4-85b1657555a0/Determined+Luffy?format=2500w"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
 ###
