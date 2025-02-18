@@ -1,4 +1,5 @@
-< img src="1.png" />
+![Uploading image.png…]()
+
 <h2 align="left">Hi👋, I’m MD Ahnaf Hossain, but you can call me Ahnaf. I’m a  Computer Science and Engineering student from Dhaka, Bangladesh. I’m passionate about programming and problem-solving, with experience in Python, C++, Front end development etc.
 
 Outside of academics, I enjoy playing badminton 🏸 , watching documentaries, and working on personal projects. My dream is to join one of the FAANG companies and master cybersecurity and 🐞 bug hunting.
