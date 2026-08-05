@@ -1,9 +1,9 @@
 ![image](https://github.com/user-attachments/assets/891cc5c9-aced-4db3-9252-a5a96f1bc1c2)
 
 
-<h2 align="left">Hi👋, I’m MD Ahnaf Hossain, but you can call me Ahnaf. I’m a  Computer Science and Engineering student from Dhaka, Bangladesh. I’m passionate about programming and problem-solving, with experience in Python, C++, Front end development etc.
+<h2 align="left">Hi👋, I’m MD Ahnaf Hossain, but you can call me Ahnaf. I’m a Computer Science and Engineering student from Dhaka, Bangladesh. I’m passionate about programming and problem-solving, with experience in Python, C++, C#, Java, Front and Back-end development etc.
 
-Outside of academics, I enjoy playing badminton 🏸 , watching documentaries, and working on personal projects. My dream is to join one of the FAANG companies and master cybersecurity and 🐞 bug hunting.
+Outside of academics, I enjoy playing badminton 🏸, watching documentaries, and working on personal projects. My dream is to join one of the FAANG companies and master cybersecurity and 🐞 bug hunting.
 </h2>
 
 ###
