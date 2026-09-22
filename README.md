@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/891cc5c9-aced-4db3-9252-a5a96f1bc1c2)
-
 <img width="2000" height="600" alt="Black and  White Gradient Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/63f454d4-46f5-4d4b-bbaf-41203c438662" />
 
 
